@@ -11,7 +11,7 @@ export default class AppRoutes extends Component{
             <Router>
                 <Navbar/>
                 <Routes>
-                    <Route path="/" element={<LayaoutPage/>}/>
+                    <Route path="/LandingPageAerial" element={<LayaoutPage/>}/>
                 </Routes>
             </Router>
             </>
