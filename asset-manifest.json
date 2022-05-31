@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LandingPageAerial/static/css/main.bf6e9b5f.css",
+    "main.js": "/LandingPageAerial/static/js/main.8e51c38a.js",
+    "index.html": "/LandingPageAerial/index.html",
+    "main.bf6e9b5f.css.map": "/LandingPageAerial/static/css/main.bf6e9b5f.css.map",
+    "main.8e51c38a.js.map": "/LandingPageAerial/static/js/main.8e51c38a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6e9b5f.css",
+    "static/js/main.8e51c38a.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bf6e9b5f.css","mappings":"AAAA,EAGI,qBAAsB,CACtB,qBAAuB,CAFvB,QAAQ,CADR,SAIJ,CAEA,KACI,wBACJ","sources":["styles.css"],"sourcesContent":["*{\r\n    padding:0;\r\n    margin:0;\r\n    box-sizing: border-box;\r\n    font-family:\"Helvetica\";\r\n}\r\n\r\nbody{\r\n    background-color: #F0EFE9;\r\n}"],"names":[],"sourceRoot":""}
